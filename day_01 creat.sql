@@ -34,3 +34,6 @@ DROP TABLE ürünler;
 
 
 
+
+
+

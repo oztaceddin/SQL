@@ -1,0 +1,4 @@
+ 
+ use sys;
+ 
+ ALTER USER 'root'@'localhost' IDENTIFIED BY '1234';
